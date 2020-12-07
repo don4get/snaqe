@@ -1,0 +1,13 @@
+PySide2
+gym
+pandas
+numpy
+matplotlib
+keras
+tensorflow
+black
+flake8
+mypy
+isort
+pytest
+pytest-qt
